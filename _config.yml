@@ -19,7 +19,7 @@ exclude             : ["Gemfile", "Gemfile.lock", "*.gemspec", "node_modules", "
 # in the templates via {{ site.myvariable }}.
 title: "Laurenz Grote"
 email: 'laurenzfg@laurenzgrote.de'
-description: "I am a student of informatics based in Aachen"
+description: "I am a student of Computer Science based in Aachen"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://laurenzfg.com" # the base hostname & protocol for your site, e.g. https://example.com
 linkedin_username: 'laurenz-grote-b1a29a1a0'
