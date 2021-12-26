@@ -9,6 +9,6 @@ featured_image: '/img/posts/bwinf.jpg'
 project_link: 'https://github.com/laurenzfg/bwinf35-kreiscode'
 button_icon: 'github'
 button_text: 'Visit Project'
-lead_text: 'Took part at BwInf, a German programming competition aimed at 
-high school students several times. Take a look at my submissions!'
+lead_text: 'Back in high school, I took part in the German federal programming competition several times.
+    Every submission contains runnable code (mostly Java) as well as some documentation (started with .docx, graduated to LaTeX later)'
 ---
