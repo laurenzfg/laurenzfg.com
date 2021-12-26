@@ -4,13 +4,10 @@ source code for laurenzfg.com, my personal homepage
 ## Deploy / Compile Guide
 Installieren der Build-Umgebung:
 
-{% highlight bash %}
-$ gem install bundler
-$ bundle install
-$ bundle exec jekyll serve
-{% endhighlight %}
+    $ gem install bundler
+    $ bundle install
+    $ bundle exec jekyll serve
 
 Kompilieren zum Upload:
-{% highlight bash %}
-$ bundle exec jekyll build
-{% endhighlight %}
+
+    $ bundle exec jekyll build
