@@ -281,7 +281,8 @@ button.btn, input.btn {
       }
     }
     .excerpt {
-      width: 80%;
+      width: 90%;
+      text-align: justify;
       @include bp-xsmall {
         width: 100%;
       }
