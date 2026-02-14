@@ -33,7 +33,7 @@ permalink: /businesscard/
   <div id="qrcode" style="display: inline-block;"></div>
 </div>
 
-<script src="https://cdn.jsdelivr.net/npm/qrcode-generator@1.4.4/qrcode.min.js"></script>
+<script src="/js/qrcode.js"></script>
 <script>
 (function() {
   var defaultEmail = "{{ site.email }}";
